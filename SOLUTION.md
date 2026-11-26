@@ -29,3 +29,11 @@ Submit `MemoryRiver.hpp` through the client after committing and pushing it.
 The generic executable build instructions in README do not describe this
 header-only interface. The client's missing `submit_code` method has been
 implemented using its existing API request and submission logging helpers.
+
+## Judge result
+
+- Submission ID: `879510`
+- Submitted implementation: `d5b296161f08360603eab8afea689a8c8d767aa7`
+- Result: Accepted, 100/100; all eight test groups passed.
+- Attempts used: 1 of 5.
+- Maximum individual test time: 1828 ms (5000 ms limit for that test).
